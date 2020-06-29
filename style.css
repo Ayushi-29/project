@@ -1,0 +1,28 @@
+body{
+    opacity:1;
+    background: #f4f7f9;
+}
+.jumbo{
+    background-image:url("images/edu1.jpg");
+    background-size: cover;
+    height:900px;
+}
+/*
+.modal{
+    display:none;
+}
+*/
+.tagline{
+    margin-top:-5%;
+    color: #2a0756;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.review{
+    border: 8px solid #888888;
+    border-right: 3px;
+    border-left: 3px;
+}
+.user_review{
+    background: transparent;
+    border: none;
+}
